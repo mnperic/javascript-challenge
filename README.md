@@ -2,6 +2,10 @@
 
 ## Background
 
+<p align="center">
+  <img src="https://github.com/mnperic/javascript-challenge/blob/main/static/images/nasa.jpg" alt="NASA"/>
+</p>
+
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
 There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
@@ -26,7 +30,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Level 1: Automatic Table and Date Search (Required)
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Create a basic HTML web page or use the [starter_code.html](StarterCode/starter_code.html) file provided (we recommend building your own custom page!).
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
@@ -50,7 +54,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](static/js/data.js)
 
 - - -
 
